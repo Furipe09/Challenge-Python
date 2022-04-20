@@ -1,29 +1,28 @@
 # Python-Challenge
 
 ## _Features_
-1.  [] Criar um report de budget da sua conta AWS utilizando Python
-  1.  [] Criar uma Lambda;
-  2.  [] Converter a saida para csv;
-  3.  [] Salvar relatório no S3
-  4.  [] Criar o alerta de budget utilizando boto na sua conta aws para enviar o alerta quando chegar no valor estipulado por vocês
+1.  Criar um report de budget da sua conta AWS utilizando Python
+      -  Criar uma Lambda;
+      -  Converter a saida para csv;
+      -  Salvar relatório no S3
+      -  Criar o alerta de budget utilizando boto na sua conta aws para enviar o alerta quando chegar no valor estipulado por vocês
 
-2.  [] Criar um monitoramento no personal health da aws
-  1.  [] Criar uma lambda
-  2.  [] Converte a saida para um csv
-  3.  [] Salvar  saida no S3
+2.  Criar um monitoramento no personal health da aws
+      -  Criar uma lambda
+      -  Converte a saida para um csv
+      -  Salvar  saida no S3
 
-3.  [] Criar um lambda de monitoramento de recursos que não possui tags
-  1.  [] Criar uma lambda
-  2.  [] Varrer a conta uma vez ao dia
-  3.  [] criar tag no recurso
-  4.  [] Gravar no S3 em arquivo de log, qual recurso foi marcado a tag e hora e dia
+3.  Criar um lambda de monitoramento de recursos que não possui tags
+      -  Criar uma lambda
+      -  Varrer a conta uma vez ao dia
+      -  criar tag no recurso
+      -  Gravar no S3 em arquivo de log, qual recurso foi marcado a tag e hora e dia
 
-4.  [] Criar um lambda que leia os recursos no S3 anteriores normalize os dados e jogue no dynamodb
-  1.  [] Criar uma lambda
-  2.  [] ler os arquivos do S3
-  3.  [] normalizar os arquivos (Colocando os campos vazio como null)
-  4.  [] jogar os conteudos  por tabelas separadas no dynamodb
-
+4.  Criar um lambda que leia os recursos no S3 anteriores normalize os dados e jogue no dynamodb
+      -  Criar uma lambda
+      -  ler os arquivos do S3
+      -  normalizar os arquivos (Colocando os campos vazio como null)
+      -  jogar os conteudos  por tabelas separadas no dynamodb
 
 ## :wrench: <span style="color:black"><b> Implementação do código: </b> </span>    
 
