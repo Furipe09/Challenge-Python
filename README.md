@@ -104,3 +104,7 @@
     ```sh
     terraform destroy
     ```
+# **References**
+  - https://docs.aws.amazon.com/lambda/latest/dg/lambda-samples.html
+  - https://github.com/awsdocs/aws-lambda-developer-guide/tree/main/sample-apps/blank-python
+  - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8
